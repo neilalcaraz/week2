@@ -1,5 +1,5 @@
-const myTitle = 'A Beautiful Poem'
-let myObject = {'adjectives': ['annoying', 'powerful', 'afraid'], 'nouns': ['rock', 'mountain', 'tree', 'blade of grass']}
+const myTitle = 'A Simple Poem'
+let myObject = {'adjectives': ['caring', 'angry', 'loving'], 'nouns': ['worm', 'butterfly', 'leaf', 'blade of grass']}
 let myArticleArray = ['The', 'an', 'a']
 
 function returnPoem(title, article, noun, adjective) {
